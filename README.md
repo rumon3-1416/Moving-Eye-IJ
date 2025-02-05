@@ -10,3 +10,17 @@ This is a simple interactive emoji built using HTML, CSS, and JavaScript. The ey
 - Emoji with eyes that follow the cursor in real-time.
 - Built using only HTML, CSS, and JavaScript.
 
+## Run Locally
+
+This is a Javascript project built with html, css and javascript. Follow the steps below to set up and run the project locally.
+
+### 1️⃣ Prerequisites
+Open a terminal and run:
+
+```bash
+git clone https://github.com/rumon3-1416/Snake-Game-IJ.git
+cd your-repository
+```
+
+### 2️⃣ Open with LiveServer
+Open the project folder in Visual Studio code. Then Open with LiveServer.
